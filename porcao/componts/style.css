@@ -1,0 +1,87 @@
+body{
+    background-color:black;
+    font-family: 'Zeyada', cursive
+}
+
+h1{
+    position: relative;
+    left: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: white;
+    font-family: 'Zeyada', cursive;
+    
+}
+
+h3{
+    color: white;
+    position: absolute;
+    top: 120px;
+    left: 22rem;
+}
+
+img{
+    border: 0;
+    width: 99%;
+    height: 480px;
+    position: fixed;
+    left: 10px;
+    top: 210px;
+}
+
+.menu{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    
+   
+}
+
+.menu form{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 360px;
+    top: 380px;
+    
+    
+    
+}
+
+h2{
+    color: white;
+    position: relative;
+    left: 30px;
+    top: 0;
+    font-family: 'Zeyada', cursive;
+    font-size: 40px;
+}
+
+label{
+    color: white;
+    font-family: 'Zeyada', cursive;
+    display: grid;
+    align-self: end;
+    position: relative;
+    left: 50px;
+}
+
+input{
+    height: 30px;
+    position: relative;
+    left: 50px;
+    width: 200px;
+    border-radius: 10px;
+    font-family: 'Zeyada', cursive;
+    font-size: 20px;
+}
+
+button{
+    height: 45px;
+    width: 150px;
+    position: relative;
+    left: 80px;
+    top: 40px;
+    border-radius: 30px;
+    font-family: 'Zeyada', cursive;
+    font-size: 20px;
+}
